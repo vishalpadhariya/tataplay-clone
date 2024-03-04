@@ -24,9 +24,10 @@
 # How to use
 
 ```
-    npm install
-
-    npm run dev
+npm install
+```
+```
+npm run dev
 ```
 
 **_Happy Coding :)_**
