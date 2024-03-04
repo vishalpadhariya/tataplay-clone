@@ -11,7 +11,7 @@
 
 # Author
 
-- (Vishal Padhariya)[https://vishalpadhariya.in/]
+- [Vishal Padhariya](https://vishalpadhariya.in/)
 
 # Features
 
